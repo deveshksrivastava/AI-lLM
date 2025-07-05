@@ -1,0 +1,15 @@
+
+33,189 views  Jun 2, 2025  #FastAPI #Python
+💻 Get started with Clerk Authentication: https://go.clerk.com/naBxpyl
+
+👉 Check out PyCharm, the only Python IDE you need: https://jb.gg/try_pycharm_ide 
+👉 Free 3-Month Personal Subscription for PyCharm Pro with “PyCharm_and_Tim“: https://jb.gg/redeem_code_now 
+
+I'll show you how to build a full stack application that will look fantastic on your portfolio using FastAPI and Python on the backend, and JavaScript and React on the frontend. We're going to have an API, authentication, databases; and I'm going to show you how to integrate this with an AI or with an LLM.
+
+🎞 Video Resources 🎞
+Code in this video: https://github.com/techwithtim/Secure...
+Ngrok: https://ngrok.com/
+Node JS Install: https://nodejs.org/en
+OpenAI API Platform: https://platform.openai.com/
+UV Tutorial:    • Stop Using Pip - This New Tool is 100x Fas...  
